@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_GB_Continue.iml" filepath="$PROJECT_DIR$/Java_GB_Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les11_FromSimpleToPractice/Les11_FromSimpleToPractice.iml" filepath="$PROJECT_DIR$/Les11_FromSimpleToPractice/Les11_FromSimpleToPractice.iml" />
+    </modules>
+  </component>
+</project>
