@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_GB_Continue.iml" filepath="$PROJECT_DIR$/Java_GB_Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Les11_FromSimpleToPractice/Les11_FromSimpleToPractice.iml" filepath="$PROJECT_DIR$/Les11_FromSimpleToPractice/Les11_FromSimpleToPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sem11_FromSimpleToComplex/Sem11_FromSimpleToComplex.iml" filepath="$PROJECT_DIR$/Sem11_FromSimpleToComplex/Sem11_FromSimpleToComplex.iml" />
     </modules>
   </component>
 </project>
