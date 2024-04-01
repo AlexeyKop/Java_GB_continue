@@ -39,9 +39,9 @@ public abstract class User {
     @Override
     public String toString() {
         return "User{" +
-                "firstName='" + firstName + '\'' +
-                ", secondName='" + secondName + '\'' +
-                ", lastName='" + lastName + '\'' +
+                "Имя - '" + firstName + '\'' +
+                ", Отчество - '" + secondName + '\'' +
+                ", Фамилия - '" + lastName + '\'' +
                 '}';
     }
 }
