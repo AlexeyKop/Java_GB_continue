@@ -1,0 +1,5 @@
+
+4,tractor,1,45.00
+Toy{id=4, name='tractor', quantity=1, weightPercent=45.0}
+1,car,1,30.00
+Toy{id=1, name='car', quantity=1, weightPercent=30.0}
