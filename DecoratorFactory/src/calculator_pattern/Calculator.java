@@ -1,6 +1,6 @@
-package calculator;
+package calculator_pattern;
 
-public final class Calculator implements Calculable {
+public final class Calculator implements calculator_pattern.Calculable {
 
     private int primaryArg;
 
@@ -9,7 +9,7 @@ public final class Calculator implements Calculable {
     }
 
     @Override
-    public Calculable sum(int arg) {
+    public calculator_pattern.Calculable sum(int arg) {
         primaryArg += arg;
         return this;
     }

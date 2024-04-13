@@ -1,4 +1,4 @@
-package calculator;
+package calculator_pattern;
 
 public interface Calculable {
     Calculable sum(int arg);

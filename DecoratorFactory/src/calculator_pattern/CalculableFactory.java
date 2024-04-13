@@ -1,4 +1,4 @@
-package calculator;
+package calculator_pattern;
 
 public class CalculableFactory implements ICalculableFactory {
     public Calculable create(int primaryArg) {
