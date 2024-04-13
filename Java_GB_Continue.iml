@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Sem12_TaskForComments/DecoratorFactory/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sem12_TaskForComments/Observer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sem13_Pattern_clone/Adapter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sem13_Pattern_clone/DecoratorFactory/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sem13_Pattern_clone/Observer/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

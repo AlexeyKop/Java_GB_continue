@@ -1,10 +1,13 @@
 package calculator;
 
+import calculator_pattern.Calculable;
+import calculator_pattern.ICalculableFactory;
+
 import java.util.Scanner;
 
 public class ViewCalculator {
 
-    private ICalculableFactory calculableFactory;
+    private calculator_pattern.ICalculableFactory calculableFactory;
 
     public ViewCalculator(ICalculableFactory calculableFactory) {
         this.calculableFactory = calculableFactory;

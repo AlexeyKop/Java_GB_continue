@@ -1,7 +1,7 @@
 package calculator;
 
 public interface Calculable {
-    Calculable sum(int arg);
-    Calculable multi(int arg);
+    calculator_pattern.Calculable sum(int arg);
+    calculator_pattern.Calculable multi(int arg);
     int getResult();
 }
